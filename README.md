@@ -41,4 +41,3 @@ Choose Scheduling Algorithm:
 2. SJF
 3. Priority
 4. Round Robin
-2
