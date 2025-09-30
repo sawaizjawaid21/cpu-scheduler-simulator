@@ -3,6 +3,10 @@
 A simple C program that simulates common CPU scheduling algorithms used in operating systems.  
 This project demonstrates how different scheduling strategies affect process waiting time and turnaround time.
 
+## Made by
+**F24 6046 Sawaiz**
+**F24 6047 Hannan**
+
 ## Features
 - **First-Come, First-Served (FCFS)**
 - **Shortest Job First (SJF)**
